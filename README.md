@@ -9,4 +9,4 @@ To build
 
 To run
 ------
-    java -cp target/helloworld-1.0.jar /HelloWorld
+    java -cp target/helloworld-1.0.jar HelloWorld.java
